@@ -2,7 +2,7 @@
 <h2>Primer challenge del curso de Alura LATAM</h2>
 <br>
 <p>El proyecto <b>"Amigo secreto"</b> consiste en ir añadiendo distintos nombres de amigos mediante el botón añadir</p>
-![image](https://github.com/AAgusCF/Challenge-Amigo-Secreto/blob/main/Screenshots/ss1.JPG?raw=true)
+![Image](https://github.com/user-attachments/assets/5b41343e-35cc-4f5a-88fc-36939c8afb3b)
 <br>
 
 <p>Si se da click en el botón "añadir" sin haber escrito ningún nombre, aparecerá la siguiente alerta:</p>
