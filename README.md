@@ -5,7 +5,7 @@
 <img src="https://github.com/AAgusCF/Challenge-Amigo-Secreto/blob/main/Screenshots/ss1.JPG?raw=true">
 <br>
 
-<p>Si se da click en el botón "añadir" sin haber escrito ningún nombre, aparecerá la siguiente alerta:</p>
+<p>Si se da click en el botón <b>"añadir"</b> sin haber escrito ningún nombre, aparecerá la siguiente alerta:</p>
 <img src="https://github.com/AAgusCF/Challenge-Amigo-Secreto/blob/main/Screenshots/ss2.JPG?raw=true">
 <br>
 
@@ -13,9 +13,9 @@
 <img src="https://github.com/AAgusCF/Challenge-Amigo-Secreto/blob/main/Screenshots/ss4.JPG?raw=true">
 <br>
 
-<p>Una vez que haya terminado de agregar a todos sus amigos, haga click en el botón "Sortear amigo":</p>
+<p>Una vez que haya terminado de agregar a todos sus amigos, haga click en el botón <b>"Sortear amigo"</b>:</p>
 <img src="https://github.com/AAgusCF/Challenge-Amigo-Secreto/blob/main/Screenshots/ss3.JPG?raw=true">
 <br>
 
-<p>Al dar click en el botón "Sortear amigo", el programa mostrará a su amigo secreto.</p>
+<p>Al dar click en el botón <b>"Sortear amigo"</b>, el programa mostrará a su amigo secreto.</p>
 <img src="https://github.com/AAgusCF/Challenge-Amigo-Secreto/blob/main/Screenshots/ss5.JPG?raw=true">
